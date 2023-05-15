@@ -4,4 +4,4 @@
 
 ### **English:**
   
-  My name is Pedro Henrique P. P. Ceccon, i'm currently a student of Computer Engineering in State University of Campinas (UNICAMP).
+  My name is Pedro Henrique P. P. Ceccon, I am currently a student of Computer Engineering in the State University of Campinas (UNICAMP).
